@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObjects
+  - Interactable
+  - LongGrass
+  - Player
+  - Item
+  - Pokemon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 721960617
+    locked: 0
+  - name: LongGrass
+    uniqueID: 1186308613
+    locked: 0
+  - name: Solid
+    uniqueID: 444867061
+    locked: 0
+  - name: Character
+    uniqueID: 3443547527
+    locked: 0
+  - name: Ride
+    uniqueID: 879947875
+    locked: 0
