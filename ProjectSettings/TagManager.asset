@@ -17,7 +17,7 @@ TagManager:
   - Player
   - Item
   - Pokemon
-  - 
+  - Portal
   - 
   - 
   - 
@@ -44,15 +44,27 @@ TagManager:
   - name: Terrain
     uniqueID: 721960617
     locked: 0
+  - name: Ground
+    uniqueID: 1363538633
+    locked: 0
   - name: LongGrass
     uniqueID: 1186308613
     locked: 0
   - name: Solid
     uniqueID: 444867061
     locked: 0
+  - name: TileInstantiated
+    uniqueID: 662305823
+    locked: 0
   - name: Character
     uniqueID: 3443547527
     locked: 0
   - name: Ride
     uniqueID: 879947875
+    locked: 0
+  - name: PostProcessing
+    uniqueID: 2265842183
+    locked: 0
+  - name: Interface
+    uniqueID: 2607875763
     locked: 0
